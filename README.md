@@ -93,7 +93,7 @@ This will start the application on `http://localhost:3000`.
 - **Home Page**: Displays the URL shortening form (`GET /`)
 - **Login**: Login form (`GET /login`)
 - **Signup**: Signup form (`GET /signup`)
-- **Shorten URL**: Shorten a URL (`POST /url/shorten`)
+- **Shorten URL**: Shorten a URL (`POST /`)
 - **Redirect**: Redirect from shortened URL to the original URL (`GET /:shortenedUrl`)
   
 ### 7. Authentication
